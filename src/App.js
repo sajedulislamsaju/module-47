@@ -9,11 +9,16 @@ const sum = 555;
 function App() {
   return (
     <div className="App">
-      <Counter></Counter>
+      {/* <Counter></Counter> */}
+
     </div>
   );
 }
 
+
+function showUser (){
+  const someUser =[]
+}
 
 
 function Counter (){
